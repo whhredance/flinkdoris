@@ -3,23 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="71ddeda0-616b-4255-a9f1-de83a2236983" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/dim/DimSinkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/func/MyBroadcastFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyBroadcastFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/func/MyPhoenixSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyPhoenixSink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/bean/TableProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/bean/TableProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/common/GmallConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/common/GmallConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/DruidDSUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DruidDSUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/KafkaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/PhoenixUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/PhoenixUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/app/dim/DimSinkApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/app/func/MyBroadcastFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/app/func/MyPhoenixSink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/bean/TableProcess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/common/GmallConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/util/DruidDSUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/util/KafkaUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/util/KafkaUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/util/PhoenixUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/util/KafkaUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/util/KafkaUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/util/KafkaUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/util/KafkaUtil.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,15 +21,36 @@
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+            <state relative-caret-position="858">
+              <caret line="54" column="105" selection-start-line="54" selection-start-column="105" selection-end-line="54" selection-end-column="105" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DateFormatUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dwd/log/BaseLogApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -76,6 +83,8 @@
         <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/dim/DimSinkApp.java" />
         <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/common/GmallConfig.java" />
         <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java" />
+        <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java" />
+        <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DateFormatUtil.java" />
       </list>
     </option>
   </component>
@@ -94,8 +103,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="87" />
-    <option name="y" value="160" />
+    <option name="x" value="-257" />
+    <option name="y" value="148" />
     <option name="width" value="1863" />
     <option name="height" value="780" />
   </component>
@@ -107,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,17 +190,40 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="dwd" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gmall-fdrt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-fdrt" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-fdr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dwd" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-fdrt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-fdrt" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-fdr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675757441504" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675769399543" />
     <property name="last_opened_file_path" value="F:/sgg/flume-interceptor" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -256,18 +287,20 @@
       <updated>1675750978434</updated>
       <workItem from="1675750981634" duration="1460000" />
       <workItem from="1675752459021" duration="3973000" />
-      <workItem from="1675756884798" duration="511000" />
+      <workItem from="1675756884798" duration="788000" />
+      <workItem from="1675769111871" duration="241000" />
+      <workItem from="1675769686331" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5985000" />
+    <option name="totallyTimeSpent" value="6474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="160" width="1863" height="780" extended-state="0" />
+    <frame x="-257" y="148" width="1863" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25513035" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -276,7 +309,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,16 +372,6 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DruidDSUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -409,11 +432,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        <state relative-caret-position="131">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="54" column="105" selection-start-line="54" selection-start-column="105" selection-end-line="54" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DateFormatUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dwd/log/BaseLogApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
