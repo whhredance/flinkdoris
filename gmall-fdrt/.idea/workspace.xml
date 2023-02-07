@@ -2,73 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71ddeda0-616b-4255-a9f1-de83a2236983" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/.idea/flinkdoris.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/gmall-realtime.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/flume/interceptor/ETLInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/flume/interceptor/TimestampAndTableNameInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/flume/interceptor/TimestampInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/flume/utils/JSONUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/realtime/app/func/MyBroadcastFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/realtime/app/func/MyPhoenixSink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/realtime/bean/TableProcess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/realtime/common/GmallConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/realtime/util/DruidDSUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/java/com/whh/gmall/realtime/util/PhoenixUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/resources/hbase-site.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/flume/interceptor/ETLInterceptor$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/flume/interceptor/ETLInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/flume/interceptor/TimestampAndTableNameInterceptor$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/flume/interceptor/TimestampAndTableNameInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/flume/interceptor/TimestampInterceptor$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/flume/interceptor/TimestampInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/flume/utils/JSONUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/app/dim/DimSinkApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/app/func/MyBroadcastFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/app/func/MyPhoenixSink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/bean/TableProcess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/common/GmallConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/util/DruidDSUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/util/KafkaUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/util/KafkaUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/com/whh/gmall/realtime/util/PhoenixUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/hbase-site.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-realtime/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/gmall-whh.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flinkdoris/gmall-whh/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/flume-interceptor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/src/main/java/com/whh/gmall/flume/interceptor/ETLInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/src/main/java/com/whh/gmall/flume/interceptor/TimestampAndTableNameInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/src/main/java/com/whh/gmall/flume/interceptor/TimestampInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/src/main/java/com/whh/gmall/flume/test/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/src/main/java/com/whh/gmall/flume/utils/JSONUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/classes/com/whh/gmall/flume/interceptor/ETLInterceptor$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/classes/com/whh/gmall/flume/interceptor/ETLInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/classes/com/whh/gmall/flume/interceptor/TimestampAndTableNameInterceptor$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/classes/com/whh/gmall/flume/interceptor/TimestampAndTableNameInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/classes/com/whh/gmall/flume/interceptor/TimestampInterceptor$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/classes/com/whh/gmall/flume/interceptor/TimestampInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/classes/com/whh/gmall/flume/test/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/classes/com/whh/gmall/flume/utils/JSONUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/flume-interceptor-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/flume-interceptor-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flume-interceptor/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/dim/DimSinkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/func/MyBroadcastFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyBroadcastFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/func/MyPhoenixSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyPhoenixSink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/bean/TableProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/bean/TableProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/common/GmallConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/common/GmallConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/DruidDSUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DruidDSUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/KafkaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/PhoenixUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/PhoenixUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/app/dim/DimSinkApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/app/func/MyBroadcastFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/app/func/MyPhoenixSink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/bean/TableProcess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/common/GmallConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/util/DruidDSUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/util/KafkaUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/util/KafkaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/atguigu/gmall/realtime/util/PhoenixUtil.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -84,7 +35,20 @@
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,6 +75,7 @@
         <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/func/MyPhoenixSink.java" />
         <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/dim/DimSinkApp.java" />
         <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/common/GmallConfig.java" />
+        <option value="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java" />
       </list>
     </option>
   </component>
@@ -129,8 +94,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="136" />
+    <option name="x" value="87" />
+    <option name="y" value="160" />
     <option name="width" value="1863" />
     <option name="height" value="780" />
   </component>
@@ -142,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,18 +160,39 @@
               <item name="realtime" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gmall-fdrt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-fdrt" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-fdr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-fdrt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-fdrt" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-fdr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dwd" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675756351674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675757441504" />
     <property name="last_opened_file_path" value="F:/sgg/flume-interceptor" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -223,7 +210,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DimSinkApp (1)">
+    <configuration name="DimSinkApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whh.gmall.realtime.app.dim.DimSinkApp" />
+      <module name="gmall-fdr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whh.gmall.realtime.app.dim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DimSinkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.realtime.app.dim.DimSinkApp" />
       <module name="gmall-fdr" />
@@ -239,6 +239,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DimSinkApp (1)" />
         <item itemvalue="Application.DimSinkApp" />
       </list>
     </recent_temporary>
@@ -255,16 +256,18 @@
       <updated>1675750978434</updated>
       <workItem from="1675750981634" duration="1460000" />
       <workItem from="1675752459021" duration="3973000" />
+      <workItem from="1675756884798" duration="511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5433000" />
+    <option name="totallyTimeSpent" value="5985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="136" width="1863" height="780" extended-state="0" />
+    <frame x="87" y="160" width="1863" height="780" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25235718" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25513035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -272,8 +275,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,7 +339,7 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/KafkaUtil.java">
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
@@ -346,7 +349,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/DruidDSUtil.java">
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DruidDSUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
@@ -356,7 +359,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/func/MyBroadcastFunction.java">
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyBroadcastFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3102">
           <caret line="141" column="10" selection-start-line="141" selection-start-column="10" selection-end-line="141" selection-end-column="10" />
@@ -366,33 +369,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/bean/TableProcess.java">
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/bean/TableProcess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/dim/DimSinkApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="99" column="34" lean-forward="true" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2867#2875#0" expanded="true" />
-            <element signature="e#3928#3950#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/util/PhoenixUtil.java">
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/PhoenixUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-154">
           <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/func/MyPhoenixSink.java">
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyPhoenixSink.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
@@ -402,10 +393,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/common/GmallConfig.java">
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/common/GmallConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk1.8.0_141/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="796" column="5" lean-forward="true" selection-start-line="796" selection-start-column="5" selection-end-line="796" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
