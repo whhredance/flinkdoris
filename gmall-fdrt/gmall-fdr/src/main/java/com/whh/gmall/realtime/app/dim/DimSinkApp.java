@@ -23,6 +23,7 @@ import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.CheckpointConfig;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 
+import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 
 public class DimSinkApp {
@@ -101,5 +102,7 @@ public class DimSinkApp {
         dimDS.addSink(new MyPhoenixSink());
 
         env.execute();
+
+
     }
 }
