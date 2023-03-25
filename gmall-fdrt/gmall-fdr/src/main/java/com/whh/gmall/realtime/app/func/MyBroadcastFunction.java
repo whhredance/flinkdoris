@@ -46,6 +46,9 @@ public class MyBroadcastFunction extends BroadcastProcessFunction<JSONObject, St
 
         if (tableConfig != null) {
             JSONObject data = jsonObj.getJSONObject("data");
+
+            // 获取操作类型
+            String type = jsonObj.getString("type");
             String sinkTable = tableConfig.getSinkTable();
 
             // 根据 sinkColumns 过滤数据
@@ -54,6 +57,9 @@ public class MyBroadcastFunction extends BroadcastProcessFunction<JSONObject, St
 
             // 将目标表名加入到主流数据中
             data.put("sinkTable", sinkTable);
+
+            // 将操作类型加入到 JSONObject 中
+            data.put("type", type);
 
             out.collect(data);
         }

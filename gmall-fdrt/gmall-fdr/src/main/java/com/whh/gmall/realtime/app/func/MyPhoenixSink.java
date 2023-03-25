@@ -4,6 +4,7 @@ import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.pool.DruidPooledConnection;
 import com.alibaba.fastjson.JSONObject;
 import com.whh.gmall.realtime.common.GmallConfig;
+import com.whh.gmall.realtime.util.DimUtil;
 import com.whh.gmall.realtime.util.DruidDSUtil;
 import com.whh.gmall.realtime.util.PhoenixUtil;
 import org.apache.commons.lang3.StringUtils;
@@ -29,12 +30,17 @@ public class MyPhoenixSink extends RichSinkFunction<JSONObject> {
     public void invoke(JSONObject jsonObj, Context context) throws Exception {
         // 获取目标表表名
         String sinkTable = jsonObj.getString("sinkTable");
+
+        //获取操作类型
+        String type = jsonObj.getString("type");
+
         // 获取 id 字段的值
         String id = jsonObj.getString("id");
 
-        // 清除 JSON 对象中的 sinkTable 字段
+        // 清除 JSON 对象中的 sinkTable 字段和 type 字段
         // 以便可将该对象直接用于 HBase 表的数据写入
         jsonObj.remove("sinkTable");
+        jsonObj.remove("type");
 
         // 获取字段名
         Set<String> columns = jsonObj.keySet();
@@ -58,5 +64,10 @@ public class MyPhoenixSink extends RichSinkFunction<JSONObject> {
             System.out.println("从 Druid 连接池获取连接对象异常");
         }
         PhoenixUtil.executeSQL(sql, conn);
+
+        // 如果操作类型为 update，则清除 redis 中的缓存信息
+        if ("update".equals(type)) {
+            DimUtil.deleteCached(sinkTable, id);
+        }
     }
 }

@@ -41,4 +41,9 @@ public class DruidDSUtil {
 
         return druidDataSource;
     }
+
+    public static DruidDataSource createDorisDataSource() {
+        return getDataSource(GmallConfig.DORIS_DRIVER, GmallConfig.DORIS_URL);
+    }
+
 }

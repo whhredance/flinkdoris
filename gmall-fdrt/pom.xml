@@ -156,6 +156,17 @@
         <version>1.1.16</version>
     </dependency>
 
+        <!--
+        doris连接池
+        -->
+        <dependency>
+            <groupId>org.apache.doris</groupId>
+            <artifactId>
+                flink-doris-connector-1.13_2.12
+            </artifactId>
+            <version>1.0.3</version>
+        </dependency>
+
    <!--
     cep
     -->
@@ -164,6 +175,25 @@
             <artifactId>flink-cep_${scala.version}</artifactId>
             <version>${flink.version}</version>
     </dependency>
+
+    <!--
+   IK分词器
+   -->
+        <dependency>
+            <groupId>com.janeluo</groupId>
+            <artifactId>ikanalyzer</artifactId>
+            <version>2012_u6</version>
+        </dependency>
+
+      <!--
+      jedis
+      -->
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>3.3.0</version>
+        </dependency>
+
     </dependencies>
 
     <!--

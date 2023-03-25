@@ -1,53 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="71ddeda0-616b-4255-a9f1-de83a2236983" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/dim/DimSinkApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/app/dim/DimSinkApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/app/dim/DimSinkApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/util/KafkaUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/util/KafkaUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/gmall-fdr.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyBroadcastFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyBroadcastFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyPhoenixSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/app/func/MyPhoenixSink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/common/GmallConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/common/GmallConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/test/Plt.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/test/Plt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DateFormatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DateFormatUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DruidDSUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/DruidDSUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/PhoenixUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/PhoenixUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/test/Plt.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-fdr/target/classes/com/whh/gmall/realtime/test/Plt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-fdrt.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/gmall-fdr/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/test/Twosum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/test/Plt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -91,6 +83,9 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -99,18 +94,17 @@
         <option name="userSettingsFile" value="D:\ProgramFiles\Java\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="74" />
-    <option name="y" value="313" />
+    <option name="x" value="145" />
+    <option name="y" value="206" />
     <option name="width" value="1558" />
-    <option name="height" value="766" />
+    <option name="height" value="751" />
   </component>
+  <component name="ProjectId" id="2MwfOH2hwHkWp0Vb11YUSy6daTU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -120,6 +114,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,32 +171,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1677658993795" />
-    <property name="last_opened_file_path" value="F:/sgg/flume-interceptor" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Plt">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.DimSinkApp">
     <configuration name="DimSinkApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.whh.gmall.realtime.app.dim.DimSinkApp" />
       <module name="gmall-fdr" />
@@ -267,16 +252,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Plt" />
-        <item itemvalue="Application.Twosum" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.DimSinkApp (1)" />
-        <item itemvalue="Application.DimSinkApp" />
+        <item itemvalue="应用程序.Twosum" />
+        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.Plt" />
+        <item itemvalue="应用程序.DimSinkApp" />
+        <item itemvalue="应用程序.DimSinkApp (1)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -299,17 +296,31 @@
       <workItem from="1676881495716" duration="870000" />
       <workItem from="1677312858505" duration="145000" />
       <workItem from="1677652149196" duration="7318000" />
+      <workItem from="1677732850845" duration="968000" />
+      <workItem from="1677736489567" duration="1790000" />
+      <workItem from="1678683609116" duration="2296000" />
+      <workItem from="1678685936229" duration="8000" />
+      <workItem from="1678686724759" duration="54000" />
+      <workItem from="1678686805782" duration="156000" />
+      <workItem from="1678686981511" duration="12000" />
+      <workItem from="1678687004765" duration="241000" />
+      <workItem from="1678687405143" duration="19000" />
+      <workItem from="1678687435150" duration="27000" />
+      <workItem from="1678687473443" duration="527000" />
+      <workItem from="1678688027301" duration="337000" />
+      <workItem from="1678688500465" duration="17000" />
+      <workItem from="1678760481814" duration="154000" />
+      <workItem from="1679729141278" duration="5489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19493000" />
+    <option name="totallyTimeSpent" value="22305000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="154" width="1558" height="766" extended-state="0" />
-    <editor active="true" />
+    <frame x="145" y="206" width="1558" height="751" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2610147" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27102804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -318,7 +329,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22964169" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22943038" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,12 +355,16 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gmall-fdr/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/atguigu/gmall/realtime/app/dwd.log" />
     <entry file="file://$PROJECT_DIR$/gmall-fdrt.iml">
@@ -572,12 +587,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2002">
           <caret line="91" selection-start-line="91" selection-end-line="91" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/util/KafkaUtil.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -641,15 +656,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/test/Twosum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
+        <state relative-caret-position="880">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmall-fdr/src/main/java/com/whh/gmall/realtime/test/Plt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="-110">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
